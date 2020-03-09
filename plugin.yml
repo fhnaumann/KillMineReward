@@ -1,0 +1,12 @@
+main: me.wand555.KillMineReward.KillMineReward
+name: KillMineReward
+version: 0.0.14
+prefix: KillMineReward
+depend: [Vault]
+description: Creates the ability to create and work on self-made jobs.
+api-version: 1.13
+author: wand555
+permissions:
+  killmine.use:
+    description: Gives access to rewards.
+    default: op
